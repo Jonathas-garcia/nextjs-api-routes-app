@@ -7,6 +7,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@bit/react-bootstrap.react-bootstrap.button": "^1.0.0",
+    "@bit/react-bootstrap.react-bootstrap.internal.style-links": "^1.0.0",
+    "@bit/react-bootstrap.react-bootstrap.modal": "^1.0.0",
     "next": "latest",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",

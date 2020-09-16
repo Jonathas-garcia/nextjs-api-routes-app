@@ -10,3 +10,4 @@ export default function personHandler({ query: { id } }, res) {
     res.status(404).json({ message: `User with id: ${id} not found.` })
   }
 }
+
